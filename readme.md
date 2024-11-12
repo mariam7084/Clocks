@@ -7,5 +7,7 @@ A dark themed clock with a time display panel below it.
 
 # [Clock3: Digital Clock](https://mariam7084.github.io/Clocks/clock3_digital_clock/)
 
+# [Clock4: Digital Clock 2.0](https://mariam7084.github.io/Clocks/clock4_digital_clock_2.0/)
+
 > PS: the inspiration to make clocks comes from [this website](https://www.relaxingclock.com/) which I use during my 'fancy' study sessions XD.
 
